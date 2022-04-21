@@ -1,0 +1,21 @@
+{
+  "NServiceBus.MessageId": "9e6c1148-3638-4771-8e5f-ae7e00db147e",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.RelatedTo": "f8e19dca-97f3-426e-8ed4-ae7e00db145c",
+  "NServiceBus.ConversationId": "4cfa335d-4797-49fe-a54f-ae7e00db145d",
+  "NServiceBus.CorrelationId": "f8e19dca-97f3-426e-8ed4-ae7e00db145c",
+  "NServiceBus.ReplyToAddress": "Sales",
+  "NServiceBus.OriginatingMachine": "DESKTOP-E2E7UVD",
+  "NServiceBus.OriginatingEndpoint": "Sales",
+  "$.diagnostics.originating.hostid": "1ba29ce8e03f4d84c6485aad12912beb",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "Messages.OrderPlaced, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.4.6",
+  "NServiceBus.TimeSent": "2022-04-21 13:17:38:788296 Z",
+  "NServiceBus.ProcessingStarted": "2022-04-21 13:17:38:842882 Z",
+  "NServiceBus.ProcessingEnded": "2022-04-21 13:17:38:888530 Z",
+  "$.diagnostics.hostid": "9e32a8b3960f874157dccd965f4d27f3",
+  "$.diagnostics.hostdisplayname": "DESKTOP-E2E7UVD",
+  "NServiceBus.ProcessingMachine": "DESKTOP-E2E7UVD",
+  "NServiceBus.ProcessingEndpoint": "Billing"
+}
