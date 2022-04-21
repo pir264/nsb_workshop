@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFPBuFe3MPJbUr6akGOk+3yzy1mzaKUFQcFEjCW6JIrgCsI9mN5sz+NyMmOU8egC1z3V/xITUfkH6hnWHqpozA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Shipping\\Shipping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pwind\\.nuget\\packages\\nservicebus\\7.7.2\\nservicebus.7.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

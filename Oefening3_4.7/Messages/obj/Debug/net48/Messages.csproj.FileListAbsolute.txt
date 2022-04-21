@@ -1,0 +1,11 @@
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\bin\Debug\net48\Messages.dll
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\bin\Debug\net48\Messages.pdb
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\bin\Debug\net48\NServiceBus.Core.dll
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\obj\Debug\net48\Messages.csproj.AssemblyReference.cache
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\obj\Debug\net48\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\obj\Debug\net48\Messages.AssemblyInfoInputs.cache
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\obj\Debug\net48\Messages.AssemblyInfo.cs
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\obj\Debug\net48\Messages.csproj.CoreCompileInputs.cache
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\obj\Debug\net48\Messages.csproj.CopyComplete
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\obj\Debug\net48\Messages.dll
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Messages\obj\Debug\net48\Messages.pdb

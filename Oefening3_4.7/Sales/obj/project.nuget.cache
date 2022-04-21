@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yizPFl9bRYEtlEOkG4JgGfWWiqrFf6eJEFcEs9kHcmFOmu2tbxBbQX84QmJotO4iT5U2KTgQfvwjQ2bVI4kIIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Sales\\Sales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pwind\\.nuget\\packages\\nservicebus\\7.7.2\\nservicebus.7.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

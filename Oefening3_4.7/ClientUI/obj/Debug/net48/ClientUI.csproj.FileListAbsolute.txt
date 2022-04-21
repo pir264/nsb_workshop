@@ -1,0 +1,14 @@
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\bin\Debug\net48\ClientUI.exe.config
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\bin\Debug\net48\ClientUI.exe
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\bin\Debug\net48\ClientUI.pdb
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\bin\Debug\net48\NServiceBus.Core.dll
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\bin\Debug\net48\Messages.dll
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\bin\Debug\net48\Messages.pdb
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\obj\Debug\net48\ClientUI.csproj.AssemblyReference.cache
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\obj\Debug\net48\ClientUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\obj\Debug\net48\ClientUI.AssemblyInfoInputs.cache
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\obj\Debug\net48\ClientUI.AssemblyInfo.cs
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\obj\Debug\net48\ClientUI.csproj.CoreCompileInputs.cache
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\obj\Debug\net48\ClientUI.csproj.CopyComplete
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\obj\Debug\net48\ClientUI.exe
+C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\ClientUI\obj\Debug\net48\ClientUI.pdb
