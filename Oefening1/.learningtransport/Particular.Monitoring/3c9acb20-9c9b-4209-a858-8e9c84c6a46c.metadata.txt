@@ -1,9 +1,0 @@
-{
-  "NServiceBus.OriginatingEndpoint": "Sales",
-  "NServiceBus.OriginatingMachine": "DESKTOP-E2E7UVD",
-  "$.diagnostics.originating.hostid": "0319662b08c2b9a39d3a3394f0f5c7c9",
-  "$.diagnostics.hostdisplayname": "DESKTOP-E2E7UVD",
-  "NServiceBus.EnclosedMessageTypes": "NServiceBus.Metrics.EndpointMetadataReport",
-  "NServiceBus.ContentType": "application\/json",
-  "NServiceBus.Transport.Learning.TimeToBeReceived": "7.00:00:00"
-}

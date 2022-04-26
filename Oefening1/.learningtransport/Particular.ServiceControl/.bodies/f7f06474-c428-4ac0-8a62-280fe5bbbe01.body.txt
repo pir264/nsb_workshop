@@ -1,1 +1,0 @@
-﻿{"Subject":"[Particular.ServiceControl] health check succeeded","Body":"Storage space check for ServiceControl instance Particular.ServiceControl at http://localhost:49200/api.\r\n\r\nServiceControl database succeeded on 4/21/2022 12:35:13 PM.","FailureNotification":false}

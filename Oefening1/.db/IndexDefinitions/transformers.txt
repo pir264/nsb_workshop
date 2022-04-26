@@ -1,4 +1,0 @@
-3 - MessagesBodyTransformer
-4 - MessagesViewTransformer
-2 - FailedMessageViewTransformer
-1 - FailedMessages/UniqueMessageIdAndTimeOfFailures
