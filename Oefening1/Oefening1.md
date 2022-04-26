@@ -42,10 +42,10 @@ Console.Title = "Particular Service Platform Launcher";
    4.	Start de solution zonder Debugging (Ctrl+F5)
    5.	Wacht tot de Website ServicePulse is opgestart. Dit is de lokale versie van de monitoring tool
         1.	Welke Endpoints zijn nu actief volgens de tool?
-f.	Plaats nog een order in de clientUI
-i.	Welke soorten retries zie je in de Sales Consoles?
-ii.	Wat gebeurt er in de ServicePulse Failed messages tab?
-g.	Sluit alle consoles / websites.
-h.	Repareer de Eerdere Exceptie en start de solution  weer zonder Debugging (Ctrl+F5)
-i.	Retry de laatste error in de ServicePulse Failed Messages.
+   6.	Plaats nog een order in de clientUI
+        1.	Welke soorten retries zie je in de Sales Console?
+        2.	Wat gebeurt er in de ServicePulse Failed messages tab?
+   7.	Sluit alle consoles / websites.
+   8.	Repareer de Eerdere Exceptie en start de solution  weer zonder Debugging (Ctrl+F5)
+        1.	Retry de laatste error in de ServicePulse Failed Messages.
 
