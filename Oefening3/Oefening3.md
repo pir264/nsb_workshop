@@ -1,6 +1,6 @@
 ## Oefening 3 Sagas
 
-In de vorige oefening werd een order van sales naar Billing en Shipping tegelijk gestuurd.  Nu willen we dat er pas geshipped word als de orderplaced (van Sales) afgehandeld is en de orderBilled (van Billing) ook. Alleen weten we niet wat de volgorde is waarin deze worden afgehandeld.
+In de oefening 2 werd een order van sales naar Billing en Shipping tegelijk gestuurd.  Nu willen we dat er pas geshipped word als de orderplaced (van Sales) afgehandeld is en de orderBilled (van Billing) ook. Alleen weten we niet wat de volgorde is waarin deze worden afgehandeld.
 
 1.	Download de Solution
 2.	Debug de Solution en verzend een order om te kijken wat er nu gebeurt
