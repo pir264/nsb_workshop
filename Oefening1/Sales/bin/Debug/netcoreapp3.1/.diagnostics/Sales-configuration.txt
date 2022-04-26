@@ -18,166 +18,166 @@
         "FileVersion": "3.0.0"
       },
       {
+        "FullName": "Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "FileVersion": "1.0.0"
+      },
+      {
         "FullName": "NServiceBus.Heartbeat, Version=3.0.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c",
         "FileVersion": "3.0.1"
       },
       {
         "FullName": "NServiceBus.Metrics.ServiceControl, Version=3.0.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c",
         "FileVersion": "3.0.6"
-      },
-      {
-        "FullName": "Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-        "FileVersion": "1.0.0"
       }
     ],
     "ErrorsThrownDuringScanning": false,
     "SkippedFiles": [
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Binder.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Binder.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.CommandLine.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.CommandLine.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.FileExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Json.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Json.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.UserSecrets.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.UserSecrets.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileProviders.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileProviders.Physical.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileProviders.Physical.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileSystemGlobbing.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileSystemGlobbing.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Hosting.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Hosting.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Hosting.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Hosting.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Configuration.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Console.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Console.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Debug.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Debug.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.EventLog.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.EventSource.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.EventSource.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Options.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Options.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Primitives.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Primitives.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Win32.SystemEvents.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Win32.SystemEvents.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Diagnostics.EventLog.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Diagnostics.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Drawing.Common.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Drawing.Common.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Reflection.Metadata.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Reflection.Metadata.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Cryptography.Pkcs.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Cryptography.Pkcs.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Cryptography.Xml.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Cryptography.Xml.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Permissions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Permissions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Windows.Extensions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Windows.Extensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Sales.exe",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Sales.exe",
         "SkipReason": "File is not a .NET assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Json.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Json.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -185,23 +185,23 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Binder.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Binder.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileProviders.Physical.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileProviders.Physical.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.CommandLine.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.CommandLine.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.UserSecrets.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.UserSecrets.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -209,15 +209,15 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.FileExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Options.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Options.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -229,7 +229,7 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -253,11 +253,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileProviders.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -265,7 +265,7 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileSystemGlobbing.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.FileSystemGlobbing.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -273,15 +273,15 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Configuration.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Hosting.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Hosting.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Hosting.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Hosting.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -293,7 +293,7 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Abstractions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -305,15 +305,15 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Primitives.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Primitives.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Console.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Console.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Debug.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.Debug.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -325,11 +325,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Permissions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Permissions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.EventLog.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -337,11 +337,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.EventSource.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.EventSource.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Logging.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -349,7 +349,7 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -361,15 +361,15 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Cryptography.Xml.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\System.Security.Cryptography.Xml.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp2.0\\System.Diagnostics.EventLog.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp2.0\\System.Diagnostics.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -377,11 +377,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp3.0\\System.Security.Cryptography.Pkcs.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp3.0\\System.Security.Cryptography.Pkcs.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
+        "FilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -1780,7 +1780,7 @@
     }
   ],
   "Hosting": {
-    "HostId": "0319662b-08c2-b9a3-9d3a-3394f0f5c7c9",
+    "HostId": "8362b41b-90ee-873a-02e7-589d11cf095a",
     "HostDisplayName": "DESKTOP-E2E7UVD",
     "MachineName": "DESKTOP-E2E7UVD",
     "OSPlatform": 2,
@@ -1797,11 +1797,11 @@
       "MajorRevision": -1,
       "MinorRevision": -1
     },
-    "WorkingSet": 43438080,
+    "WorkingSet": 47042560,
     "SystemPageSize": 4096,
     "HostName": "DESKTOP-E2E7UVD",
     "UserName": "pwind",
-    "PathToExe": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\bin\\Debug\\netcoreapp3.1\\Sales.dll"
+    "PathToExe": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\bin\\Debug\\netcoreapp3.1\\Sales.dll"
   },
   "Licensing": {
     "RegisteredTo": "p.windemuller@caesar.nl",

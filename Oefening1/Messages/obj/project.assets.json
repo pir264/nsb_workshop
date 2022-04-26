@@ -767,14 +767,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj",
+      "projectUniqueName": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj",
       "projectName": "Messages",
-      "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj",
+      "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj",
       "packagesPath": "C:\\Users\\pwind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\obj\\",
+      "outputPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\NuGet.Config",
+        "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\NuGet.Config",
         "C:\\Users\\pwind\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

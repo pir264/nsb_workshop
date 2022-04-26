@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "83uiKnNCeP1H6DD9TUsUK7caRJnpz7+JEk9+BgT7U2LSzRWWgZS6gXqMwG8m3rykRqnwxca6JMWpd5M1zYID5g==",
+  "dgSpecHash": "XZbVOmJw4dOuJfKaR9uxNDIw+rF41FxWMChuqvGU5TFnAF176GF7jSKTORSgjXVjyK8S9fF2kvz8Zz5mXAs+tg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\Sales.csproj",
+  "projectFilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\Sales.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pwind\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\microsoft.extensions.configuration.3.1.6.nupkg.sha512",
     "C:\\Users\\pwind\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\microsoft.extensions.configuration.abstractions.3.1.6.nupkg.sha512",

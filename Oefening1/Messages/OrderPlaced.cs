@@ -2,7 +2,7 @@
 
 namespace Messages
 {
-    public class OrderPlaced : IEvent
+    public class OrderPlaced : ICommand
     {
         public string OrderId { get; set; }
     }

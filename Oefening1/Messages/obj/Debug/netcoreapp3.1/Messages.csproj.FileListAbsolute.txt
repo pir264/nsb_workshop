@@ -8,3 +8,13 @@ C:\Users\pwind\Documents\nsb_workshop\tutorials-quickstart\Messages\obj\Debug\ne
 C:\Users\pwind\Documents\nsb_workshop\tutorials-quickstart\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
 C:\Users\pwind\Documents\nsb_workshop\tutorials-quickstart\Messages\obj\Debug\netcoreapp3.1\Messages.dll
 C:\Users\pwind\Documents\nsb_workshop\tutorials-quickstart\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.AssemblyReference.cache
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\obj\Debug\netcoreapp3.1\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+C:\Users\pwind\Documents\GitHub\nsb_workshop\Oefening1\Messages\obj\Debug\netcoreapp3.1\Messages.pdb

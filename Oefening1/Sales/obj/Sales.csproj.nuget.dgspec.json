@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\Sales.csproj": {}
+    "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\Sales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj": {
+    "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj",
+        "projectUniqueName": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj",
         "projectName": "Messages",
-        "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj",
+        "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj",
         "packagesPath": "C:\\Users\\pwind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\obj\\",
+        "outputPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\NuGet.Config",
+          "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\NuGet.Config",
           "C:\\Users\\pwind\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,17 +66,17 @@
         }
       }
     },
-    "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\Sales.csproj": {
+    "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\Sales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\Sales.csproj",
+        "projectUniqueName": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\Sales.csproj",
         "projectName": "Sales",
-        "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\Sales.csproj",
+        "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\Sales.csproj",
         "packagesPath": "C:\\Users\\pwind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Sales\\obj\\",
+        "outputPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Sales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\NuGet.Config",
+          "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\NuGet.Config",
           "C:\\Users\\pwind\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj": {
-                "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj"
+              "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj": {
+                "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj"
               }
             }
           }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
+using Messages;
 using Microsoft.Extensions.Hosting;
 using NServiceBus;
 
@@ -20,7 +21,10 @@ namespace Sales
                        {
                            var endpointConfiguration = new EndpointConfiguration("Sales");
 
-                           endpointConfiguration.UseTransport<LearningTransport>();
+                           var transport = endpointConfiguration.UseTransport<LearningTransport>();
+
+                           var routing = transport.Routing();
+                           routing.RouteToEndpoint(typeof(OrderPlaced), "Billing");
 
                            endpointConfiguration.SendFailedMessagesTo("error");
                            endpointConfiguration.AuditProcessedMessagesTo("audit");

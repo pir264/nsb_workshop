@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "reTreTiqtyK6KzSKSthgKlFOYJtkaUSyuIj9F8WZFJs5ewTHPba8T5B961/k4w1yl84p7PVee7tkJxZ64T1gZA==",
+  "dgSpecHash": "HLLNuitY7iWKMu04geHOjm/m24EnbfGQQTQH3drvsGGEHRsuGPF2l8ZtZs4nIGkUMEBvVm2qdr8UQ0ZetU7VEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj",
+  "projectFilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pwind\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\pwind\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

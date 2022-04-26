@@ -38,7 +38,7 @@ namespace Sales
 
             log.Info($"Publishing OrderPlaced, OrderId = {message.OrderId}");
 
-            return context.Publish(orderPlaced);
+            return context.Send(orderPlaced);
         }
     }
 }

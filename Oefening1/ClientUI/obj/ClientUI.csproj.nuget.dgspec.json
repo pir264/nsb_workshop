@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\ClientUI\\ClientUI.csproj": {}
+    "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\ClientUI\\ClientUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\ClientUI\\ClientUI.csproj": {
+    "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\ClientUI\\ClientUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\ClientUI\\ClientUI.csproj",
+        "projectUniqueName": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\ClientUI\\ClientUI.csproj",
         "projectName": "ClientUI",
-        "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\ClientUI\\ClientUI.csproj",
+        "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\ClientUI\\ClientUI.csproj",
         "packagesPath": "C:\\Users\\pwind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\ClientUI\\obj\\",
+        "outputPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\ClientUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\NuGet.Config",
+          "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\NuGet.Config",
           "C:\\Users\\pwind\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,8 +30,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj": {
-                "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj"
+              "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj": {
+                "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj"
               }
             }
           }
@@ -85,17 +85,17 @@
         }
       }
     },
-    "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj": {
+    "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj",
+        "projectUniqueName": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj",
         "projectName": "Messages",
-        "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\Messages.csproj",
+        "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\Messages.csproj",
         "packagesPath": "C:\\Users\\pwind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\Messages\\obj\\",
+        "outputPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\Messages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart\\NuGet.Config",
+          "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening1\\NuGet.Config",
           "C:\\Users\\pwind\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

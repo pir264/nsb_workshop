@@ -1,0 +1,9 @@
+{
+  "NServiceBus.OriginatingEndpoint": "Sales",
+  "NServiceBus.OriginatingMachine": "DESKTOP-E2E7UVD",
+  "$.diagnostics.originating.hostid": "8362b41b90ee873a02e7589d11cf095a",
+  "$.diagnostics.hostdisplayname": "DESKTOP-E2E7UVD",
+  "NServiceBus.ContentType": "TaggedLongValueWriterOccurrence",
+  "NServiceBus.Metric.Type": "ProcessingTime",
+  "NServiceBus.Transport.Learning.TimeToBeReceived": "7.00:00:00"
+}
