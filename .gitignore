@@ -2,7 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Oefening1/.learningtransport/audit
-/Oefening1/.vs/Oefening1/DesignTimeBuild
-/Oefening1/.vs/Oefening1/v16
-/Oefening1/.vs/Oefening1/v17
+*/.learningtransport/*
+/.vs
+bin/
+obj/
+*.user
+**/local.settings.json
+**/appsettings.local.json
+*.env
