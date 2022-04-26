@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QFPBuFe3MPJbUr6akGOk+3yzy1mzaKUFQcFEjCW6JIrgCsI9mN5sz+NyMmOU8egC1z3V/xITUfkH6hnWHqpozA==",
+  "dgSpecHash": "361Vqlaj5FOyMPgmaIjnwMpDPwBgCRqtc2cVgLcdCzQiWIypf2040TylwdWT55ACnFBNuCC0fABZEH/62Xnm3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Shipping\\Shipping.csproj",
+  "projectFilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening3_4.7\\Shipping\\Shipping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pwind\\.nuget\\packages\\nservicebus\\7.7.2\\nservicebus.7.7.2.nupkg.sha512"
   ],

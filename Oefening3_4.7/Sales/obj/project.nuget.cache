@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yizPFl9bRYEtlEOkG4JgGfWWiqrFf6eJEFcEs9kHcmFOmu2tbxBbQX84QmJotO4iT5U2KTgQfvwjQ2bVI4kIIA==",
+  "dgSpecHash": "3rBRGBtbvbDezzw0NWq9uV15y+h+yio8zcrSdUFfHY/r4JJG2mI7mgtMMCv5D/3TuGSd9nA5k+z4liLZIHHCtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Sales\\Sales.csproj",
+  "projectFilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening3_4.7\\Sales\\Sales.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pwind\\.nuget\\packages\\nservicebus\\7.7.2\\nservicebus.7.7.2.nupkg.sha512"
   ],

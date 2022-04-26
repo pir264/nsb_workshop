@@ -1,8 +1,0 @@
-﻿2022-04-21 16:43:28.455 INFO  Logging to 'C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Sales\bin\Debug\net48\' with level Info
-2022-04-21 16:43:28.647 INFO  Selected active license from C:\Users\pwind\AppData\Local\ParticularSoftware\license.xml
-License Expiration: 2022-06-02
-2022-04-21 16:43:44.379 INFO  Received PlaceOrder, OrderId = f6127781-1b89-463b-97a9-9a6981e5c4d9
-2022-04-21 16:43:58.832 INFO  Logging to 'C:\Users\pwind\Documents\nsb_workshop\nservicebus-sagas-1-saga-basics (1)\Sales\bin\Debug\net48\' with level Info
-2022-04-21 16:43:59.042 INFO  Selected active license from C:\Users\pwind\AppData\Local\ParticularSoftware\license.xml
-License Expiration: 2022-06-02
-2022-04-21 16:44:04.781 INFO  Received PlaceOrder, OrderId = acdab6bc-58e1-4afb-b563-fddf6ecdfe80

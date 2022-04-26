@@ -2000,14 +2000,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart2\\Platform\\Platform.csproj",
+      "projectUniqueName": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening2\\Platform\\Platform.csproj",
       "projectName": "Platform",
-      "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart2\\Platform\\Platform.csproj",
+      "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening2\\Platform\\Platform.csproj",
       "packagesPath": "C:\\Users\\pwind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart2\\Platform\\obj\\",
+      "outputPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening2\\Platform\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart2\\NuGet.Config",
+        "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening2\\NuGet.Config",
         "C:\\Users\\pwind\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TSSwaes5Mn18oJxgCGiK3sSimqS9x/FzCbMoz9zHVVdywI0OCx3FQF0QRNFwWOLNwsS2NWt8I53wO3wh8eyOjw==",
+  "dgSpecHash": "CnWZh6jVxiM2TIm5JGss+mJXXBwzzhsxH45e6QtKdqx4vNhul3B9bRZIFDCsHrQNapEFV+XqP0NCVoy1YBDJ+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Messages\\Messages.csproj",
+  "projectFilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening3_4.7\\Messages\\Messages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pwind\\.nuget\\packages\\nservicebus\\7.7.2\\nservicebus.7.7.2.nupkg.sha512"
   ],

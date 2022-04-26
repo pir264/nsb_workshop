@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T4A/MJTSQT9tv0rfBx82AMWQprz9hzA4D0HWcmd8idk11aRczzKIloudFtp9UGTptwGEq6AwyeHasWx6IwRu6Q==",
+  "dgSpecHash": "NZ7FiDhwAl/UkRgYOgcraILjZqh2zz+9CAVVtxXGtcP2nXTqcwuBE6Cyu0/X7BGgFyzi3qdGhd4w3Nzmg8MmTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\tutorials-quickstart2\\Platform\\Platform.csproj",
+  "projectFilePath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening2\\Platform\\Platform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pwind\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\pwind\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.0\\microsoft.aspnetcore.hosting.2.2.0.nupkg.sha512",

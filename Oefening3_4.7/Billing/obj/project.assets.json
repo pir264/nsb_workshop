@@ -101,14 +101,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Billing\\Billing.csproj",
+      "projectUniqueName": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening3_4.7\\Billing\\Billing.csproj",
       "projectName": "Billing",
-      "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Billing\\Billing.csproj",
+      "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening3_4.7\\Billing\\Billing.csproj",
       "packagesPath": "C:\\Users\\pwind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Billing\\obj\\",
+      "outputPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening3_4.7\\Billing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\NuGet.Config",
+        "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening3_4.7\\NuGet.Config",
         "C:\\Users\\pwind\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -124,8 +124,8 @@
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Messages\\Messages.csproj": {
-              "projectPath": "C:\\Users\\pwind\\Documents\\nsb_workshop\\nservicebus-sagas-1-saga-basics (1)\\Messages\\Messages.csproj"
+            "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening3_4.7\\Messages\\Messages.csproj": {
+              "projectPath": "C:\\Users\\pwind\\Documents\\GitHub\\nsb_workshop\\Oefening3_4.7\\Messages\\Messages.csproj"
             }
           }
         }
