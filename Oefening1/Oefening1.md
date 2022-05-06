@@ -29,7 +29,8 @@
 5.	Monitoring tool en exceptions
    1.	Open PlaceOrderHandler.cs in Sales en uncomment onderstaand stukje code onder region ThrowFatalException
 ```csharp
-// Uncomment to test throwing fatal exceptions //throw new Exception("BOOM");
+// Uncomment to test throwing fatal exceptions 
+//throw new Exception("BOOM");
 ```
    2.	Open  Program.cs  In het platform project
    3.	Uncomment
