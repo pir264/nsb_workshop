@@ -1,7 +1,7 @@
 ## Oefening 1: Krijg de basic solution draaiend en kijk hoe het werkt
 1. Open de solution oefening1
 2. Zet de volgende Startup projects: ClientUI, Billing en Sales
-3. Debug de Solution (F5)	
+3. Debug de solution (F5)	
     1. Klik enkele keren op Place another order
     2. Welke message stuurt elk project?
     3. Welke message wordt gehandled door elk project?
