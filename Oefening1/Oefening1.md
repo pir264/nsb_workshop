@@ -1,5 +1,5 @@
 ## Oefening 1: Krijg de basic solution draaiend en kijk hoe het werkt
-1. Open pen de solution oefening1
+1. Open de solution oefening1
 2. Zorg  voor Multiple Startup projects: ClienUI,Billing en Sales moeten bij debuggen gestart worden
 3. Debug de Solution (F5)	
     1. Klik enkele keren op Place another order
