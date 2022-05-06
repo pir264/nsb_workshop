@@ -1,7 +1,7 @@
 ## Oefening 2 : publish naar een nieuw EndPoint
 
 1.	Open de solution oefening2
-2.	Zorg voor Multiple Startup projects: ClienUI,Billing en Sales en Shipping moeten bij debuggen gestart worden
+2.	Zorg voor Multiple Startup projects: ClientUI,Billing en Sales en Shipping moeten bij debuggen gestart worden
     1.	Debug de Solution en plaats een order
     2.	Door welke handlers wordt de order nu afgehandeld?
 3.	We willen nu dat een order na Sales zowel tegelijk naar Billing als naar Shipping wordt gestuurd en afgehandeld
@@ -11,7 +11,7 @@
 
 i.	HINT: De code van Billing En Shipping doen dan (ongeveer?) hetzelfde
 
-ii.	HINT Waar staat in Salesg geconfigureerd dat een message naar Billing wordt verzonden? Is dit nog nodig?
+ii.	HINT Waar staat in Sales geconfigureerd dat een message naar Billing wordt verzonden? Is dit nog nodig?
 
 
 
