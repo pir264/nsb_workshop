@@ -11,7 +11,7 @@
     1.	Start de solution zonder Debugging (Ctrl+F5)
     2.	Sluit het Billing Debug Window
     3.	Klik enkele keren op Place another order
-    4.	Wat heeft het sluiten van de Billing window op de Sales Window?
+    4.	Wat heeft het sluiten van de Billing window voor effect op de Sales Window?
     5.	ReStart Billing door op het rechtermuis klik Billing project Debug > Start new instance. Wat gebeurt er nu?
 4.	Transient failures 
     1.	Open PlaceOrderHandler.cs in Sales en uncomment onderstaand stukje code onder region ThrowTransientException
