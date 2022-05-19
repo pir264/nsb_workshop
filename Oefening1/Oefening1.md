@@ -1,29 +1,29 @@
 ## Oefening 1: Krijg de basic solution draaiend en kijk hoe het werkt
 1. Open de solution oefening1
-2. Zet de volgende Startup projects: ClientUI, Billing en Sales
-    1. Voor VsCode Kies Debug All
+    1. Welke Project Dependency heeft elk project?
+3. Zet de volgende Startup projects: ClientUI, Billing en Sales
+    1. Voor VsCode kies Debug All
 4. Debug de solution (F5)	
     1. Klik enkele keren op Place another order
-    2. Welke message stuurt elk project?
-    3. Welke message wordt gehandled door elk project?
-    4. Welke Project Dependencies heeft elk project?
+    2. Welke message stuurt elk project? (Dit wordt in de Console of Client UI getoond)
+    4. Welke message wordt gehandled door elk project? (Dit wordt in de Console of Client UI getoond)
     5. Stop Debugging
-5.	Recovering from failure: 
+5.	Recovering from failure: Wat gebeurt er als een NServicebus handler tijdelijk niet beschikbaar is
     1.	Start de solution zonder Debugging (Ctrl+F5)
     2.	Sluit het Billing Debug Window
     3.	Klik enkele keren op Place order
-    4.	Wat heeft het sluiten van de Billing window voor effect op de Sales Window?
+    4.	Wat heeft het sluiten van de Billing window voor effect op de Sales Window? Kan deze nog steeds messages versturen?
     5.	ReStart Billing door op het rechtermuis klik Billing project Debug > Start new instance. Wat gebeurt er nu?
-6.	Retrying temporary exceptions
+6.	Retrying temporary exceptions : Wat gebeurt er als een NServicebus handler een andere handler niet kan bereiken
     1.	Start de solution zonder Debugging (Ctrl+F5)
     2.	Klik enkele keren op Create a temporary error
-    3.	Wat gebeurt er als de exception optreedt?
+    3.	Wat gebeurt er als de exception optreedt? Dit kun je zien in de Console messages. De foutmelding zelf is niet interessant
     4.	Stop de Debugging
 7.	Monitoring tool en exceptions
-    1.	Zorg dat ook het Platform project wordt opgestart bij multiple startup project, deze start de website ServicePulse op
+    1.	Zorg dat ook het Platform project wordt opgestart bij multiple startup project, deze start de website ServicePulse op. 
         1.	Voor VsCode Kies Debug All + PlatForm
     3.	Start de solution zonder Debugging (Ctrl+F5)
-    4.	Wacht tot de Website ServicePulse is opgestart. Dit is de lokale versie van de monitoring tool
+    4.	Wacht tot de Website ServicePulse is opgestart. Dit is de lokale versie van de monitoring tool. Dit kan even duren
         1.	Welke Endpoints zijn nu actief volgens de tool?
     5.	Klik op Create a fatal error
         1.	Welke soorten retries zie je in de Sales Console?
