@@ -3,12 +3,13 @@
 ################################################################################
 
 */.learningtransport/*
-*/.vs/*
-*/bin/*
-*/obj/*
+**/.vs/*
+**/bin/*
+**/obj/*
 *.user
 **/local.settings.json
 **/appsettings.local.json
 *.env
-*/Debug/*
-
+**/Debug/*
+**/Debug
+**/obj
