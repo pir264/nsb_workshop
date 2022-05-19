@@ -13,7 +13,7 @@
     3.	Klik enkele keren op Place order
     4.	Wat heeft het sluiten van de Billing window voor effect op de Sales Window?
     5.	ReStart Billing door op het rechtermuis klik Billing project Debug > Start new instance. Wat gebeurt er nu?
-4.	Retrying temporary exceprion
+4.	Retrying temporary exceptions
     1.	Start de solution zonder Debugging (Ctrl+F5)
     2.	Klik enkele keren op Create a temporary error
     3.	Wat gebeurt er als de exception optreedt?
