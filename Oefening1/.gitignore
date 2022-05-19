@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*/.learningtransport/*
+*/.vs/*
+*/bin/*
+*/obj/*
+*.user
+**/local.settings.json
+**/appsettings.local.json
+*.env
+*/Debug/*
+

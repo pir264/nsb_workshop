@@ -10,3 +10,5 @@
 **/local.settings.json
 **/appsettings.local.json
 *.env
+*/Debug/*
+

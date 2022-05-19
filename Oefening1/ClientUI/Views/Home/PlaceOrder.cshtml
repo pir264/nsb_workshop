@@ -26,11 +26,11 @@
                         <p>As a result of the button click:</p>
                         <ul>
                             <li>The <b>ClientUI</b> website sent a <code>PlaceOrder</code> command to the <b>Sales</b> service.</li>
-                            <li>The <b>Sales</b> service will send an <code>OrderPlaced</code> event.</li>
+                            <li>The <b>Sales</b> service will send an <code>OrderPlaced</code> command.</li>
                             <li>The <b>Billing</b> service, will receive and process <code>OrderPlaced</code>.</li>
                         </ul>
-                        <p>Go look in the <b>Sales</b> and <b>Billing</b> console windows to see the <code>PlaceOrder</code> command and <code>OrderPlaced</code> event getting processed.</p>
-                        <input type="submit" class="btn btn-lg btn-success" onclick="sentMessage()" value="Place another order &raquo;" />
+                        <p>Go look in the <b>Sales</b> and <b>Billing</b> console windows to see the <code>PlaceOrder</code> command and <code>OrderPlaced</code> command getting processed.</p>
+                        <input type="submit" class="btn btn-lg btn-success" onclick="sentMessage()" value="Place order &raquo;" />
                     </div>
                 </form>
             </div>
