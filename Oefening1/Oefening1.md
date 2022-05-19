@@ -26,7 +26,7 @@
     4.	Wacht tot de Website ServicePulse is opgestart. Dit is de lokale versie van de monitoring tool. Dit kan even duren
         1.	Welke Endpoints zijn nu actief volgens de tool?
     5.	Klik op Create a fatal error
-        1.	Welke soorten retries zie je in de Sales Console?
+        1.	Welke soorten retries zie je in de Sales Console? Deze worden net na de fail error log message getoond
         2.	Wat gebeurt er in de ServicePulse Failed messages tab?
     6.	Sluit alle consoles / websites.
    
