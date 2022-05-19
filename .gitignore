@@ -3,9 +3,9 @@
 ################################################################################
 
 */.learningtransport/*
-*/.vs
-bin/
-obj/
+*/.vs/*
+*/bin/*
+*/obj/*
 *.user
 **/local.settings.json
 **/appsettings.local.json
