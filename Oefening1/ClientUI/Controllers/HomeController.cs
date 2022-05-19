@@ -29,11 +29,11 @@ namespace ClientUI.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult> PlaceOrder()
+        public async Task<ActionResult> PlaceOrder(bool hasTemporaryError, bool hasFatalError)
         {
             string orderId = Guid.NewGuid().ToString().Substring(0, 8);
 
-            var command = new PlaceOrder { OrderId = orderId };
+            var command = new PlaceOrder { OrderId = orderId, HasTemporaryError = hasTemporaryError, HasFatalError = hasFatalError };
 
             // Send the command
             await _messageSession.Send(command)

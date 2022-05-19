@@ -1,0 +1,77 @@
+﻿<div class="row">
+        <div class="col-lg-4">
+            <div class="card my-4">
+                <div class="card-body">
+                    <form action="/" method="POST">
+                        <h1 class="card-title">Place an order</h1>
+                        <p class="card-text">Click the button to place an order.</p>
+                        <input type="submit" class="btn btn-lg btn-success" value="Place order &raquo;" />
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="card my-4">
+                <div class="card-body">
+                    <p>When you click the button:</p>
+                    <ol>
+                        <li>The <b>ClientUI</b> website will send a <code>PlaceOrder</code> command to the <b>Sales</b> service.</li>
+                        <li>The <b>Sales</b> service will send an <code>OrderPlaced</code> command.</li>
+                        <li>The <b>Billing</b> service, will receive and process <code>OrderPlaced</code>.</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+     <div class="row">
+        <div class="col-lg-4">
+            <div class="card my-4">
+                <div class="card-body">
+                     <form action="/" method="POST">
+                         <h1 class="card-title">Create a temporary error</h1>
+                        <p class="card-text">Click the button to create a temporary error.</p>
+                         @Html.Hidden("hasTemporaryError", "true")
+                    <input type="submit" class="btn btn-lg btn-warning" onclick="sentMessage()" value="Create a temporary error &raquo;" />
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="card my-4">
+                <div class="card-body">
+                    <p>When you click the button:</p>
+                    <ol>
+                        <li>The <b>ClientUI</b> website will send a <code>PlaceOrder</code> with the property <code>HasTemporaryError = true</code>.</li>
+                        <li>The <b>Sales</b> service will throw an error random about once every 5 times this method is called</li>
+                        <li><b>NServicebus</b> will retry the <b>Sales</b> service method until no error occures.</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="card my-4">
+                <div class="card-body">
+                     <form action="/" method="POST">
+                         <h1 class="card-title">Send a fatal error</h1>
+                        <p class="card-text">Click the button to create a fatal error.</p>
+                         @Html.Hidden("hasFatalError", "true")
+                    <input type="submit" class="btn btn-lg btn-warning" onclick="sentMessage()" value="Place a fatal error &raquo;" />
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="card my-4">
+                <div class="card-body">
+                    <p>When you click the button:</p>
+                    <ol>
+                        <li>The <b>ClientUI</b> website will send a <code>PlaceOrder</code> command with <code>HasFatalError = true</code>.</li>
+                        <li>The <b>Sales</b> service will always throw an error</li>
+                        <li><b>NServicebus</b> will retry until it gives up</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>

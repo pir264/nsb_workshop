@@ -18,17 +18,22 @@ namespace Sales
 
             // This is normally where some business logic would occur
 
-            #region ThrowTransientException
-            // Uncomment to test throwing transient exceptions
-            //if (random.Next(0, 5) == 0)
-            //{
-            //    throw new Exception("Oops");
-            //}
-            #endregion
+            
+            //This code is to simulate that a temporary exception occures
+            if (message.HasTemporaryError && random.Next(0, 5) == 0)
+            {
+                log.Error("Oops a temporary exception");
+                throw new Exception("Oops a temporary exception");
+            }
+
 
             #region ThrowFatalException
-            // Uncomment to test throwing fatal exceptions
-            // throw new Exception("BOOM");
+            if (message.HasFatalError)
+            {
+                log.Error("This is an exception that always occures");
+                throw new Exception("This is an exception that always occures");
+            }
+
             #endregion
 
             var orderPlaced = new OrderPlaced
