@@ -11,18 +11,16 @@
                 "ClientUI",
                 "Sales",
                 "Billing",
-                "Platform"
             ]
         },
         {
-            "name": "Debug All + Shipping",
+            "name": "Debug All + Platform",
             "preLaunchTask": "build",
             "configurations": [
                 "ClientUI",
                 "Sales",
                 "Billing",
-                "Platform",
-                "Shipping"
+                "Platform"
             ]
         }
     ],
@@ -74,16 +72,6 @@
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "console": "externalTerminal"
-        },
-        {
-            "name": "Shipping",
-            "type": "coreclr",
-            "request": "launch",
-            "program": "${workspaceFolder}/Shipping/bin/Debug/netcoreapp3.1/Shipping.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}",
-            "stopAtEntry": false,
-            "console": "externalTerminal",
         },
         {
             "name": ".NET Core Attach",
