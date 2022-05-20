@@ -42,7 +42,14 @@
                     <p>When you click the button:</p>
                     <ol>
                         <li>The <b>ClientUI</b> website will send a <code>PlaceOrder</code> with the property <code>HasTemporaryError = true</code>.</li>
-                        <li>The <b>Sales</b> service will throw an error random about once every 5 times this method is called</li>
+                        <li>The <b>Sales</b> service will throw an error random about once every 5 times this method is called<br/>
+<pre><code>if (message.HasTemporaryError && random.Next(0, 5) == 0)
+{
+    log.Error("Oops a temporary exception");
+    throw new Exception("Oops a temporary exception");
+}
+</code></pre>
+                        </li>
                         <li><b>NServicebus</b> will retry the <b>Sales</b> service method until no error occures.</li>
                     </ol>
                 </div>
@@ -68,7 +75,15 @@
                     <p>When you click the button:</p>
                     <ol>
                         <li>The <b>ClientUI</b> website will send a <code>PlaceOrder</code> command with <code>HasFatalError = true</code>.</li>
-                        <li>The <b>Sales</b> service will always throw an error</li>
+                        <li>The <b>Sales</b> service will always throw an error<br/>
+<pre><code>
+    if (message.HasFatalError)
+    {
+        log.Error("This is an exception that always occures");
+        throw new Exception("This is an exception that always occures");
+    }
+</code></pre>
+                        </li>
                         <li><b>NServicebus</b> will retry until it gives up</li>
                     </ol>
                 </div>
