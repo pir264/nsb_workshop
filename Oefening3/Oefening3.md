@@ -1,6 +1,6 @@
 ## Oefening 3 Sagas
 
-Het doel vanm deze oefening is kennis te maken met sagas en hoe je data persistentie kan gebruiken.
+Het doel van deze oefening is kennis te maken met sagas en hoe je data persistentie kan gebruiken.
 
 In de oefening 2 werd een order van Sales naar Billing en Shipping tegelijk gestuurd.  Nu willen we dat er pas geshipped word als de orderplaced (van Sales) afgehandeld is **en** de orderBilled (van Billing) ook. We weten echter niet wat de volgorde is waarin deze worden afgehandeld.
 
