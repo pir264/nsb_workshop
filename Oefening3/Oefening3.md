@@ -1,6 +1,6 @@
 ## Oefening 3 Sagas
 
-In de oefening 2 werd een order van sales naar Billing en Shipping tegelijk gestuurd.  Nu willen we dat er pas geshipped word als de orderplaced (van Sales) afgehandeld is **en** de orderBilled (van Billing) ook. We weten echter niet wat de volgorde is waarin deze worden afgehandeld.
+In de oefening 2 werd een order van Sales naar Billing en Shipping tegelijk gestuurd.  Nu willen we dat er pas geshipped word als de orderplaced (van Sales) afgehandeld is **en** de orderBilled (van Billing) ook. We weten echter niet wat de volgorde is waarin deze worden afgehandeld.
 
 1.	Open de solution oefening3
 2.	Zorg voor Multiple Startup projects: ClientUI, Billing en Sales en Shipping moeten bij debuggen gestart worden
@@ -11,6 +11,10 @@ In de oefening 2 werd een order van sales naar Billing en Shipping tegelijk gest
 Nu wordt in ShippingPolicyData.cs alleen de OrderId bewaard. Dit is de persistente data die in de Saga mbv Data.OrderId gebruikt kan worden in bijvoorbeeld de methode ProcessOrder. 
 
 5.	Zorg met de Saga state dat er alleen een ShipOrder message wordt verzonden als zowel OrderPlaced en OrderBilled zijn afgehandeld.
+
+### Gists
+
+Saga https://gist.github.com/pir264/391699798a206c81a3b88180ba098669
 
 
 
