@@ -1,6 +1,6 @@
 ## Oefening 1: Krijg de basic solution draaiend en kijk hoe het werkt
 
-Doel van deze oefening is een algemeen beeld te krijgen van NServicebus
+Doel van deze oefening is een algemeen beeld te krijgen van NServicebus en de oefen applicatie
 
 1. Open de solution oefening1
     1. Welke Project Dependency heeft elk project?
