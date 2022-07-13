@@ -1,7 +1,10 @@
 ## Oefening 1: Krijg de basic solution draaiend en kijk hoe het werkt
+
+Doel van deze oefening is een algemeen beeld te krijgen van Nservicebus
+
 1. Open de solution oefening1
     1. Welke Project Dependency heeft elk project?
-3. Zet de volgende Startup projects: ClientUI, Billing en Sales
+3. Zet de volgende projecten als multiple startup: ClientUI, Billing en Sales
     1. Voor VsCode kies Debug All
 4. Debug de solution (F5)	
     1. Klik enkele keren op Place another order
