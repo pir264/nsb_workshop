@@ -7,9 +7,9 @@ Doel van deze oefening is een algemeen beeld te krijgen van NServicebus en de oe
 3. Zet de volgende projecten als multiple startup: ClientUI, Billing en Sales
     1. Voor VsCode kies Debug All
 4. Debug de solution (F5)	
-    1. Klik enkele keren op Place another order
-    2. Welke message stuurt elk project? (Dit wordt in de Console of Client UI getoond)
-    4. Welke message wordt gehandled door elk project? (Dit wordt in de Console of Client UI getoond)
+    1. Klik enkele keren op **Place order**
+    2. Welke message stuurt elk project? (Dit wordt in de Console of Client UI getoond) >>[Antwoord](https://gist.github.com/pir264/272403fa1d39d3e8d7186733e12506d8)
+    4. Welke message wordt gehandled door elk project? (Dit wordt in de Console getoond) >>[Antwoord](https://gist.github.com/pir264/a626f0b047b8738f3802cfacd864a263)
     5. Stop Debugging
 5.	We bekijken nu de feature recovering from failure: Wat gebeurt er als een NServicebus handler tijdelijk niet beschikbaar is
     1.	Start de solution zonder Debugging (Ctrl+F5)
