@@ -19,8 +19,8 @@ Doel van deze oefening is een algemeen beeld te krijgen van NServicebus en de oe
     5.	ReStart Billing door op het rechtermuis klik Billing project Debug > Start new instance. Wat gebeurt er nu? >>[Antwoord](https://gist.github.com/pir264/87b4eebeab382b53c16003f5d84c5c3d)
 6.	We bekijken nu de feature retrying temporary exceptions : Wat gebeurt er als een NServicebus handler een andere handler niet kan bereiken
     1.	Start de solution zonder Debugging (Ctrl+F5)
-    2.	Klik enkele keren op Create a temporary error
-    3.	Wat gebeurt er als de exception optreedt? Dit kun je zien in de Console messages. De foutmelding zelf is niet interessant
+    2.	Klik enkele keren op Create a temporary error, rechts naast de knop staat uitgelegd wat de knop doet
+    3.	Wat gebeurt er als de exception optreedt? Dit kun je zien in de Console messages. De foutmelding zelf is niet interessant >> [Antwoord](https://gist.github.com/pir264/3d69335cab6f8a86d3a7c781a66bb2cd)
     4.	Stop de Debugging
 7.	We bekijken nu een gedeelte van de monitoring tool van Nservicebus.
     1.	Zorg dat ook het Platform project wordt opgestart bij multiple startup project, deze start de website ServicePulse op. 
