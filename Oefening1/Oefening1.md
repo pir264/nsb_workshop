@@ -22,7 +22,7 @@ Doel van deze oefening is een algemeen beeld te krijgen van NServicebus en de oe
     2.	Klik enkele keren op Create a temporary error, rechts naast de knop staat uitgelegd wat de knop doet
     3.	Wat gebeurt er als de exception optreedt? Dit kun je zien in de Console messages. De foutmelding zelf is niet interessant >> [Antwoord](https://gist.github.com/pir264/3d69335cab6f8a86d3a7c781a66bb2cd)
     4.	Stop de Debugging
-7.	We bekijken nu een gedeelte van de monitoring tool van Nservicebus.
+7.	We bekijken nu een gedeelte van de monitoring tool van Nservicebus. Voor dit stukje heb je een developer license nodig
     1.	Zorg dat ook het Platform project wordt opgestart bij multiple startup project, deze start de website ServicePulse op. 
         1.	Voor VsCode Kies Debug All + PlatForm
     3.	Start de solution zonder Debugging (Ctrl+F5)
