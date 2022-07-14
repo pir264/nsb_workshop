@@ -3,7 +3,7 @@
 Doel van deze oefening is een algemeen beeld te krijgen van NServicebus en de oefen applicatie
 
 1. Open de solution oefening1
-    1. Wat valt je op aan de project dependencies 
+    1. Wat valt je op aan de project dependencies >>[Antwoord](https://gist.github.com/pir264/95d12254138292565e533b5a21ae20bb)
 3. Zet de volgende projecten als multiple startup: ClientUI, Billing en Sales
     1. Voor VsCode kies Debug All
 4. Debug de solution (F5)	
