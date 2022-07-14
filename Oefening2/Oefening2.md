@@ -10,7 +10,7 @@ In deze oefening behandelen we de Send & Command en Publish en Subscribe pattern
     3.	Door welke handlers wordt de order nu afgehandeld? >>[Antwoord](https://gist.github.com/pir264/285c6b91ec5fea279425c91bce1fe7be)
     4.	Welk [messaging concept](https://docs.particular.net/nservicebus/concepts/) wordt nu door Sales gebruikt? >>[Antwoord](https://gist.github.com/pir264/0bdbb705b3805947fe3ac5dc41143a00)
 3.	We willen nu dat een order na Sales tegelijk naar Billing als naar Shipping wordt gestuurd en afgehandeld
-    1.	Welk [messaging concept](https://docs.particular.net/nservicebus/concepts/) hoort daar bij?
+    1.	Welk [messaging concept](https://docs.particular.net/nservicebus/concepts/) hoort daar bij? >>[Antwoord](https://gist.github.com/pir264/8f75043b7ac05e9f90afe8b0651ecf9a)
     3.	Verander de code zo dat de message door Sales naar Billing en Shipping wordt gestuurd en dit in de Console te zien is.
 
 i.	HINT: De code van Billing en Shipping doen dan (ongeveer?) hetzelfde
