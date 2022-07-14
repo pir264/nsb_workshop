@@ -16,7 +16,7 @@ Doel van deze oefening is een algemeen beeld te krijgen van NServicebus en de oe
     2.	Sluit het Billing Debug Window
     3.	Klik enkele keren op **Place order**
     4.	Wat heeft het sluiten van de Billing window voor effect op de Sales project? Kan deze nog steeds messages versturen? >>[Antwoord](https://gist.github.com/pir264/fd61981c6cce11aee11ab4b8180dd5fb)
-    5.	ReStart Billing door op het rechtermuis klik Billing project Debug > Start new instance. Wat gebeurt er nu?
+    5.	ReStart Billing door op het rechtermuis klik Billing project Debug > Start new instance. Wat gebeurt er nu? >>[Antwoord](https://gist.github.com/pir264/87b4eebeab382b53c16003f5d84c5c3d)
 6.	We bekijken nu de feature retrying temporary exceptions : Wat gebeurt er als een NServicebus handler een andere handler niet kan bereiken
     1.	Start de solution zonder Debugging (Ctrl+F5)
     2.	Klik enkele keren op Create a temporary error
