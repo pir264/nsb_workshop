@@ -14,7 +14,7 @@ Doel van deze oefening is een algemeen beeld te krijgen van NServicebus en de oe
 5.	We bekijken nu de feature recovering from failure: Wat gebeurt er als een NServicebus handler tijdelijk niet beschikbaar is
     1.	Start de solution zonder Debugging (Ctrl+F5)
     2.	Sluit het Billing Debug Window
-    3.	Klik enkele keren op Place order
+    3.	Klik enkele keren op **Place order**
     4.	Wat heeft het sluiten van de Billing window voor effect op de Sales Window? Kan deze nog steeds messages versturen?
     5.	ReStart Billing door op het rechtermuis klik Billing project Debug > Start new instance. Wat gebeurt er nu?
 6.	We bekijken nu de feature retrying temporary exceptions : Wat gebeurt er als een NServicebus handler een andere handler niet kan bereiken
