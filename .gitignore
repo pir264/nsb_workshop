@@ -13,3 +13,6 @@
 **/Debug/*
 **/Debug
 **/obj
+/Oefening1/.audit-db
+/Oefening1/.db
+/Oefening1/.logs

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license type="Non-Production Development" Applications="All" expiration="2022-10-12" id="c2848fc4-ae58-4275-a0b3-a2ac9ff13437">
+  <name>peter.windemuller@cloudrepublic.nl</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>foQ1EgE85NFk7XPvOcdFHNbTgTg=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>cCplZjt0hWUzy4R3bky5yyJJe4Wkf3pToynBH2mThAma3SB1k3UmF1VMSzyU1HYJO9FD1ZOlj8MZ2QfpAnFhlxPEHvbuVX12Dmo43LXDzMUuzszEMfAIqw9YY12Wt2tf0AxSt95ix5PNbxv0St7sFbQJH1BTqboCAQCvPRLX35U=</SignatureValue>
+  </Signature>
+</license>
